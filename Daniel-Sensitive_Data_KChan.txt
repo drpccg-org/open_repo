@@ -1,0 +1,43 @@
+Important Devops Data:
+
+Credit Card: Visa 
+cc# 0111111111111111 
+cc# 1234567812345670 
+cc# 180025848680889 
+
+Social Security:
+social security 623064066
+377840512
+410-96-3346
+271-04-6135
+174-42-4089
+341-14-1110
+016-56-0128
+060-86-8213
+624-72-2882
+224-66-8451
+537-29-1972
+
+ABA Details
+If your account was opened here……your ABA number is: 
+Nevada – All other Branches322271724 
+New Jersey021272655 
+New York 021000089 0210014860 2 1 0 0 1 4 8 6 for former EAB customers 
+Pennsylvania021272655 
+
+AWS Details
+AWS, Amazon Web Services, Key, Key ID, Access Key ID 
+AKIBJYHBS5S5TBC63XMB 
+
+AWS, Amazon Web Services, Key, Key ID, Access Key ID 
+AJIAKXHBS6S4TBC53XNA 
+ 
+AWS Secret access key: hblnNLoBL6uWYuxJ282U7VUh56pzpEoLvPTpea2D 
+
+
+Passport Numbers:
+
+Passport Number 137614002 
+Passport Number 804140742 
+Passport Number 510872834 
+Passport Number 431821113
